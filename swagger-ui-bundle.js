@@ -16199,6 +16199,6 @@
         }]
     }]).default
 }));
-//# sourceMappingURL=swagger-ui-standalone-preset.js.map
+//# sourceMappingURL=swagger-ui-standalone-preset.js
 
 
